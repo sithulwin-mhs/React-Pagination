@@ -1,3 +1,3 @@
 # react-paginate
 # facke jsonplaceholder
-# Link => [react-pagination] (https://goofy-tereshkova-2fdf30.netlify.app/)
+# Link => [https://goofy-tereshkova-2fdf30.netlify.app/] (https://goofy-tereshkova-2fdf30.netlify.app/)
